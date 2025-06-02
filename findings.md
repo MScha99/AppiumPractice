@@ -23,11 +23,23 @@ Get-StartApps
 https://github.com/appium/appium-windows-driver#install-wad  
 https://pypi.org/project/Appium-Python-Client/  
 https://appium.io/docs/en/latest/quickstart/test-py/  
-https://github.com/Microsoft/WinAppDriver  
+https://github.com/Microsoft/WinAppDriver
 
 ## find locators
-https://accessibilityinsights.io/
 
+### appium inspector
+
+https://github.com/appium/appium-inspector/releases
+
+```
+{
+  "platformName": "windows",
+  "appium:automationName": "windows",
+  "appium:app": "Microsoft.WindowsCalculator_8wekyb3d8bbwe!App"
+}
+```
+
+### https://accessibilityinsights.io/
 
 ## some things to remember
 
